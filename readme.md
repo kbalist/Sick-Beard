@@ -1,4 +1,4 @@
-Sick Beard
+Sick Beard French Fork
 =====
 
 *Sick Beard is currently an alpha release. There may be severe bugs in it and at any given time it may not work at all.*
@@ -52,3 +52,18 @@ If you find a bug please report it or it'll never get fixed. Verify that it hasn
 [googledownloads]: http://code.google.com/p/sickbeard/downloads/list
 [googleissues]: http://code.google.com/p/sickbeard/issues/list
 [googlenewissue]: http://code.google.com/p/sickbeard/issues/entry
+
+
+
+
+## Changelog
+
+* fetch commit : Added soundtrack languages support in daily RSS Search 
+( https://github.com/Toilal/Sick-Beard/commit/d4f78821c4488db373ee88e4967f056a6343c833 )
+
+* fetch commit : Added: Soundtrack Language support in application. New Soundtrack
+( https://github.com/Toilal/Sick-Beard/commit/0c5d1d95e643812aed0fcd2f61058f8ee2dee2b1 )
+
+
+
+
